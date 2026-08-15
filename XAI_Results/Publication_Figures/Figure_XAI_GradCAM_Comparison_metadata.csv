@@ -1,0 +1,7 @@
+type,sample_index,true_class,predicted_class,confidence,path
+Correct,41,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,0.931675136089325,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_0041_Corn_(maize)___Northern_Leaf_Blight_pred_Corn_(maize)___Northern_Leaf_Blight.png
+Correct,65,Tomato___Early_blight,Tomato___Early_blight,0.9278216361999512,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_0065_Tomato___Early_blight_pred_Tomato___Early_blight.png
+Correct,0,Tomato___Late_blight,Tomato___Late_blight,0.8944467306137085,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_0000_Tomato___Late_blight_pred_Tomato___Late_blight.png
+Misclassified,5092,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.9571523070335388,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_5092_Corn_(maize)___Northern_Leaf_Blight_pred_Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot.png
+Misclassified,746,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,0.9336658716201782,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_0746_Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_pred_Corn_(maize)___Northern_Leaf_Blight.png
+Misclassified,2349,Corn_(maize)___Common_rust_,Corn_(maize)___Northern_Leaf_Blight,0.9186410307884216,c:\Users\cscpr\Downloads\random 1\XAI_Results\sample_2349_Corn_(maize)___Common_rust__pred_Corn_(maize)___Northern_Leaf_Blight.png
